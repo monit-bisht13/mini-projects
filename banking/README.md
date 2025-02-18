@@ -71,7 +71,3 @@ This project is a **Banking System** built using **Java** and **MySQL**. It simu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Thanks to the open-source community for providing the JDBC driver for MySQL.
-- Special thanks to all contributors who helped with ideas and bug fixes.
