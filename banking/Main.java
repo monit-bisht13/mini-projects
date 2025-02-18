@@ -1,8 +1,10 @@
 package banking;
 
 public class Main {
-    public static void main(String[] args) {
-        Menu m = new Menu();
-        m.menu();
-    } 
+
+	 public static void main(String[] args) {
+	        Jdbc.getConnection();
+	        Menu m = new Menu();
+	        m.menu1();
+	    }
 }
